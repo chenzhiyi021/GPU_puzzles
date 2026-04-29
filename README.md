@@ -1,3 +1,3 @@
 # GPU_puzzles
 
-GPU puzzles from https://github.com/srush/GPU-Puzzles.
+My solutions of GPU puzzles from https://github.com/srush/GPU-Puzzles.
